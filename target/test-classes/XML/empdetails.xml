@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<employeeDetails>
+  <empId>100</empId>
+  <empName>
+    <firstName>Suganya</firstName>
+    <lastName>Raju</lastName>
+  </empName>
+  <phno>
+    <official>9677747233</official>
+    <personal>9442333400</personal>
+  </phno>
+  <address>
+    <permanent>
+      <street>Tambaram</street>
+      <city>Chennai</city>
+      <state>TamilNadu</state>
+    </permanent>
+  </address>
+</employeeDetails>
