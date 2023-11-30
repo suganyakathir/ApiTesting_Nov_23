@@ -1,19 +1,19 @@
 package org.xmlwrite;
 
 public class Phno {
-	private long official;
-	private long personal;
-	public long getOfficial() {
-		return official;
+	private long officials;
+	private long personals;
+	public long getOfficials() {
+		return officials;
 	}
-	public void setOfficial(long official) {
-		this.official = official;
+	public void setOfficials(long officials) {
+		this.officials = officials;
 	}
-	public long getPersonal() {
-		return personal;
+	public long getPersonals() {
+		return personals;
 	}
-	public void setPersonal(long personal) {
-		this.personal = personal;
+	public void setPersonals(long personals) {
+		this.personals = personals;
 	}
-
+	
 }
